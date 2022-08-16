@@ -11,4 +11,4 @@ Part1 Assignment: 1. write a program called runscan that takes two arguments
 
 Part2 Assignment: find out the filenames of those inodes that represent the jpg files.
 
-In summary, in the final output directory, for each jpg file, there should be a file with an inode number as the filename, and another file with the same filename as the actual one.
+In summary, in the final output directory, for each jpg file, there should be a file with an inode number as the filename, and another file with the same filename as the actual one..
